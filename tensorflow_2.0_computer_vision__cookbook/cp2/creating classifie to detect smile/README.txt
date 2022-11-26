@@ -1,3 +1,1 @@
-Data:
-
-https://github.com/hromi/SMILEsmileD.git
+Data: https://github.com/hromi/SMILEsmileD.git
